@@ -1,0 +1,3 @@
+[submodule "prover-commons"]
+	path = prover-commons
+	url = https://github.com/tribbloid/prover-commons
